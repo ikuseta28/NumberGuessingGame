@@ -1,0 +1,11 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled files
+out/
+*.class
+
+# Local game data
+highscore.txt
